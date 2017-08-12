@@ -30,7 +30,7 @@ by Brian Moakley on raywenderlich.com
 * When in doubt, start with a struct and migrate to a class if needed later.
 
 ### Chapter 6: Inheritance
-* If you don't want your class to be subclassed, but final keyword before class and its name.
+* If you don't want your class to be subclassed, put final keyword before class and its name.
 
 ### Chapter 7: Initializers
 * With convenience initializer you can limit amount of properties necessary for initialization of an object. For instance, you can provide a default value for user first name and last name, but create a convenience init for setting score.
